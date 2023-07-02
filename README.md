@@ -1,2 +1,0 @@
-while true do'
- game.ReplicatedStorage.MainEvent:FireServer("Stomp")
